@@ -19,5 +19,5 @@ Description: A panoramic view from Glacier Point in Yosemite National Park in Ca
 Author: [Diliff via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Glacier_Point_at_Sunset,_Yosemite_NP,_CA,_US_-_Diliff.jpg)
 
 ![image](https://user-images.githubusercontent.com/106886685/192673367-b81aa896-6a7d-4fc9-91b9-890ae89093bf.png)
-Description: 
+Description: Canada Geese and morning fog in Golden Gate Park.
 Author: [Brocken Inaglory via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Canada_Geese_and_morning_fog.jpg)
