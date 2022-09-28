@@ -1,7 +1,6 @@
-#### Using this site to gather some of my favorite nature pictures taken in the US!
-# Nature of California
-I was looking at some pictures of California's nature earlier, so here's some of my favorites!
-## Pictures
+This site is aggregating all the pictures that I like from Wikimedia Commons, with authors linked immediately below.
+# Natural Scenes of California
+First stop, California!
 ![image](https://user-images.githubusercontent.com/106886685/192608396-1c8d0f6d-ede2-4c02-8756-5078403597f1.png)
 Source: [King of Hearts on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Chimney_Rock_Trail_Point_Reyes_December_2016_009.jpg)
 
