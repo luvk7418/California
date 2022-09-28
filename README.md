@@ -1,4 +1,4 @@
-This site is aggregating all some of my favorite pictures of California off Wikimedia Commons, with five per arbitrary category.
+This site is aggregating all some of my favorite pictures of California off Wikimedia Commons, with five per arbitrary category. Enjoy!
 # Natural Scenes of California
 First stop, California!
 
