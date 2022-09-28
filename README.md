@@ -1,3 +1,4 @@
+#### Using this site to gather some of my favorite nature pictures taken in the US!
 # Nature of California
 I was looking at some pictures of California's nature earlier, so here's some of my favorites!
 ## Pictures
