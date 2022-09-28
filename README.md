@@ -71,3 +71,12 @@ Author: [King of Hearts via Wikimedia Commons](https://commons.wikimedia.org/wik
 Description: Fort Point and the Golden Gate Bridge.
 
 Author: [Brocken Inaglory via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Fort_Point_National_Historic_Site_and_Golden_Gate_Bridge.jpg)
+
+
+
+![image](https://user-images.githubusercontent.com/106886685/192678993-10dd33ad-619f-42d3-9de3-46758e699db1.png)
+
+Description: Los Angeles skyline against the San Gabriel Mountains.
+
+Author: [salewskia via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Los_Angeles,_Winter_2016.jpg)
+
