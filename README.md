@@ -32,8 +32,7 @@ Author: [Frank Schulenburg via Wikimedia Commons](https://commons.wikimedia.org/
 
 ![image](https://user-images.githubusercontent.com/106886685/192672922-088797b3-8620-4213-843c-eb22a6acb255.png)
 
-Description: A panoramic view from Glacier Point in Yosemite National Park in California, United States. The view extends from roughly north (on the left side to east 
-(on the right).
+Description: A panoramic view from Glacier Point in Yosemite National Park.
 
 Author: [Diliff via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Glacier_Point_at_Sunset,_Yosemite_NP,_CA,_US_-_Diliff.jpg)
 
